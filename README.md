@@ -5,6 +5,6 @@ Hello! My name is Sulekha. I am a B.Tech student studying Computer Science and E
 * **Interest:** Interested in web development and learning new technologies.
   - **Goal:** Improve my programming skills and contribute to open-source projects.
 ## Projects
-- C Programming Practice
-- Python Programming Practice
-- Java Programming Practice
+- C Programming Practice – Practicing programming concepts and problem-solving.
+- Python Programming Practice – Learning Python fundamentals.
+- Java Programming Practice – Developing programs using Java.
