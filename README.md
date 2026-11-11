@@ -8,3 +8,9 @@ Hello! My name is Sulekha. I am a B.Tech student studying Computer Science and E
 - C Programming Practice – Practicing programming concepts and problem-solving.
 - Python Programming Practice – Learning Python fundamentals.
 - Java Programming Practice – Developing programs using Java.
+## Collaboration Log
+
+- **Pairing Partner:** Silanjan Mukherjee
+- **GitHub Username:** msilanjan-boop
+- **Work Completed:** Collaboratively added a greet() function to hello.c using Live Share.
+- **Learning:** Learned how to use GitLens to view commit history and identify who modified each line of code.
